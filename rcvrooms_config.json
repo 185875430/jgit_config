@@ -1,0 +1,50 @@
+{
+  "room_version": {
+    "controller_version": "20.3.30",
+    "host_version": "20.3.30",
+    "iOS_version": "11.0",
+    "MacOS_version": "10.14",
+    "deprecated_version": "19.4.10",
+    "controller_itunes_id": "1455048712",
+    "host_auto_upgrade": false
+  },
+  "audio_record_quality": 2,
+  "rebootSchedule": "0 1 * * 1",
+  "jenkins_report_glip_webhook_url": "https://jenkins-xmn02.lab.nordigy.ru/generic-webhook-trigger/invoke",
+  "backgroundImageAssets": [
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-morning1.png",
+          "startTime": "5:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-morning2.png",
+          "startTime": "8:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-day1.png",
+          "startTime": "10:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-day2.png",
+          "startTime": "13:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-evening1.png",
+          "startTime": "17:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-evening2.png",
+          "startTime": "20:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-night1.png",
+          "startTime": "21:00"
+      },
+      {
+          "imageURL": "https://s3.amazonaws.com/com.ringcentral.rooms/BackgroundImage/sf-night2.png",
+          "startTime": "23:00"
+      }
+      
+  ]
+ 
+}
